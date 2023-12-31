@@ -16,7 +16,7 @@ In this problem, a Convolutional Neural Network (CNN) is implemented for age pre
 
 5. **Training:** Train the model using the selected hyperparameters and evaluate its performance on the test set.
 
-### 2. Sequence Modeling with Recurrent Neural Networks
+## 2. Sequence Modeling with Recurrent Neural Networks
 
 This problem focuses on sequence modeling using Recurrent Neural Networks (RNNs). Three different RNN models are implemented and compared: Vanilla RNN, Truncated RNN, and Padded RNN. The models are trained and evaluated on a sequence prediction task.
 
@@ -30,7 +30,7 @@ This problem focuses on sequence modeling using Recurrent Neural Networks (RNNs)
 
 5. **Analysis:** Compare the advantages and disadvantages of each RNN model.
 
-### 3. Sequence-to-Sequence Translation and Autoencoder
+## 3. Sequence-to-Sequence Translation and Autoencoder
 
 This problem involves implementing a sequence-to-sequence model for translation between English and French. Additionally, an autoencoder model is trained to reconstruct input sequences. The models are trained on a dataset of English-French sentence pairs.
 
@@ -44,13 +44,13 @@ This problem involves implementing a sequence-to-sequence model for translation 
 
 5. **Evaluation:** Evaluate the translation model's performance on sample sentences.
 
-### Dependencies
+## Dependencies
 
 - Python 3
 - PyTorch
 - NumPy
 - Matplotlib
 
-### Running the Code
+## Running the Code
 
 Run each problem's code in a Jupyter notebook or a Python environment. Ensure that the dataset files are available, and modify file paths if necessary.
